@@ -23,6 +23,4 @@ defmodule CommunityWeb.Schema do
     end
   end
 
-  # x = File.read! './lib/community_web/schema.graphql'
-  # Apex.ap x
 end

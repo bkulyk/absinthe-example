@@ -1,4 +1,4 @@
-# Community
+# Absinthe GraphQL StarWars Example
 
 To start your Phoenix server:
 

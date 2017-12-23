@@ -2,10 +2,12 @@ schema {
   query: Query
 }
 
-type Query {
-  version: String
+type Person {
+  name: String
+  gender: String
+  hair_color: String
 }
 
-extend type Query {
-  meta: [String]
+type Query {
+  people: [Person]
 }
